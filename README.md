@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pagez
 
 You can use the [editor on GitHub](https://github.com/BarNone49/BlueMilk-Apps-Web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
