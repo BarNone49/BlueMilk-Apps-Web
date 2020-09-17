@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-BlueMilk Apps built the CamPanes app with privacy in mind.  Other than the cameras names, which are stored in the built-in local keychain for convenience, the app doesn't create or store any other data, locally or in a cloud or other remote location.  The app solely interacts with Homekit software provided by Apple within the iOS operating system.
+BlueMilk Apps built the CamPanes app with privacy in mind.  Other than the camera names, which are stored in the built-in local iOS keychain for convenience, the app doesn't create or store any other data, locally or in a cloud or other remote location.  The app solely interacts with Homekit software provided by Apple within the iOS operating system.
 
 **Changes to This Privacy Policy**
 
