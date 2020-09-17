@@ -1,4 +1,6 @@
-## Welcome to GitHub Pagezz
+## BlueMilk Apps
+
+[CamPanes Privacy Policy](https://www.)
 
 You can use the [editor on GitHub](https://github.com/BarNone49/BlueMilk-Apps-Web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
